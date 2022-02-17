@@ -1,3 +1,7 @@
+# random-advice-generator
+
+Random Advice Generator utilizing Advice Slip JSON API Built with React. This project is structured using React Portal to create a Modal Componet, which is then populated using the Advice Slip JSON API. And while primaliy styled with CSS, I did incorporate Styled Components in order to randomize the Modal's overlay background color.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
